@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YeelightBlue</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+	<string name="all_bulb">ALL BULBS</string>
+
+    <string name="brightness_color">Brightness&amp;Color</string>
+    <string name="delay">Delay</string>
+    <string name="colorflow">ColorFlow</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">Refresh</string>
+    <string name="connect">Connect</string>
+    <string name="statechange">Switch to:  </string>
+    <string name="delaytime">  There are @time minutes    </string>
+  <string name = "music1">Disco Time</string>
+    <string name = "music2">Music Rainbow</string>
+    <string name="function">Function</string>
+    <string name="changePic">Click the picture to change</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="ok">OK</string>
+    <string name="notice">Notice</string>
+     <string name="cancel">Cancel</string>
+     <string name="dfc">DefaultColor</string>
+     <string name="setdfc">Set current color as default color</string>
+     <string name = "dfcsucc">Set success</string>
+     <string name="rename">Rename</string>
+</resources>

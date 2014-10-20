@@ -1,0 +1,125 @@
+/* 
+  Yeelight.strings
+  yeelight
+
+  Created by myleoliu on 3/29/13.
+  Copyright (c) 2013 Yeelink. All rights reserved.
+*/
+//ScanViewController
+"Searching" = "Searching...";
+"Connecting" = "Connecting...";
+"Connect_Success" = "Connected";
+"Connect_Failed" = "Connect Failed";
+"Connect_Cancled" = "Canceled";
+"Get_Lamps_Failed" = "Get Lamps Failed";
+"Scan_Button_Cancel" = "Cancel";
+"Scan_Button_Retry" = "Retry";
+"Scan_Button_Remote" = "Remote Mode";
+"Scan_Button_Offline" = "Input Box IP";
+
+"Please_Input_An_Ip_Address" = "Please input an ip address";
+"Input_Ip_Address" = "Input Box's IP Address";
+"Select_Box" = "Select Box";
+
+//Lamps
+"Controller_Title_Lamps" = "Lamps";
+"Lamps_Button_CloseAll" = "   Close All";
+"Lamps_Button_OpenAll" = "   Open All";
+"Lamps_Button_Group" = "Groups";
+"Lamps_Button_Refresh" = "Refresh";
+
+//Groups
+"Controller_Title_Groups" = "Groups";
+"Groups_Button_Lamps" = "Lamps";
+"Groups_Button_Edit" = "Edit";
+"Groups_Button_Done" = "Done";
+"Group_Name_AllLamps" = "All";
+"Controller_Title_EditGroup" = "Eidt Group";
+"Controller_Title_AddGroup" = "Add Group";
+"GroupEdit_Label_Name" = "GroupName:";
+"GroupEdit_Button_Delete" = "Delete Group";
+"GroupEdit_Tip_Name_Empty" = "Group name can't be empty";
+"GroupEdit_Tip_Lamps_Empty" = "Please add one or more lamps";
+"GroupEdit_Tip_Delete_Confirm" = "Are you sure you want to delete this group?";
+"GroupEdit_Img_File" = "group_edit_tip_en";
+
+//Lamp Control
+"LampControl_Button_Brightness" = "Bright";
+"LampControl_Button_Color" = "Color";
+"LampControl_Button_Timer" = "Timer";
+
+//Scenes
+"Controller_Title_Scene" = "Scenes";
+"Controller_Title_AddScene" = "New Scene";
+"Controller_Title_EditScene" = "Edit Scene";
+"Scene_Button_New" = "New";
+"SceneEdit_Label_Name" = "SceneName:";
+"SceneEdit_Button_Delete" = "Delete Scene";
+"SceneEdit_Tip_Name_Empty" = "Scene name is empty";
+"SceneEdit_Tip_Lamps_Empty" = "Please add one or more lamps";
+"SceneEdit_Tip_Delete_Confirm" = "Are you sure you want to delete this scene?";
+
+//Scene Names
+"SceneMode_Text_Yuedu" = "Reading";
+"SceneMode_Text_Luori" = "Desert";
+"SceneMode_Text_Yulin" = "Forest";
+"SceneMode_Text_AiqinHai" = "Sea";
+"SceneMode_Text_XiawuCha" = "Afternoon Tea";
+"SceneMode_Text_Yese" = "Evening";
+"SceneMode_Text_Zhuguang" = "Candlelight";
+"SceneMode_Text_Yujia" = "Yoga";
+"SceneMode_Text_KanguiPian" = "Colorful";
+"SceneMode_Text_Juhui" = "Party";
+
+//Settings
+"Controller_Title_Settings" = "Settings";
+"Settings_Label_Status" = "Status";
+"Settings_Label_AppVersion" = "App Version";
+"Settings_Label_BoxVersion" = "Box Version";
+"Settings_Label_BoxId" = "Box ID";
+"Settings_Label_BoxIp" = "Box IP";
+"Settings_Text_Signal" = "Signal";
+"Settings_Signal_VeryGood" = "Great";
+"Settings_Signal_Good" = "Good";
+"Settings_Signal_Normal" = "Normal";
+"Settings_Signal_Bad" = "Weak";
+"Settings_Signal_VeryBad" = "Bad";
+"Settings_Signal_None" = "None";
+"Settings_Button_Search" = "Search Box";
+"Settings_Button_Remote" = "Remote Control";
+"Settings_Button_AuthRemote" = "Authrize Remote Control";
+"Settings_Button_AddDevice" = "Add Device";
+"Settings_Button_Reset" = "Reset Box";
+"Reset_Box_Confirm" = "Are you sure you want to reset yeelight box? ";
+"Reset_Box_Succeed" = "Reset succeed!";
+
+//Timer
+"Timer_Button_Cancel" = "Cancel";
+"Timer_Label_Minute" = "Min(s)";
+
+//Buttons
+"Button_Cancel" = " Cancel";
+"Button_Back" = " Back";
+"Button_Done" = "Done";
+"Button_Close" = "Close";
+"Button_Yes" = "Yes";
+"Button_No" = "No";
+"Button_Save" = "Save  ";
+"Button_Retry" = "Retry";
+
+//Status
+"Status_Online" = "Online";
+"Status_Offline" = "Offline";
+"Mode_Offline" = "Offline Mode";
+"Mode_Local" = "Local Mode";
+"Mode_Remote" = "Remote Mode";
+
+//Remote
+"TIP_Remote_Auth_Succeed" = "Success";
+"TIP_Remote_Auth_Failed" = "Failed";
+
+//Message
+"Alert_Message_Title_Info" = "Message Tip";
+"No_Remote_Auth" = "Your iPhone has not authrize remote control";
+"Ip_Address_Error" = "IP address error";
+"Title_Remote_Auth" = "Remote Authorization";

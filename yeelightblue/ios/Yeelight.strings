@@ -1,0 +1,87 @@
+/* 
+  Yeelight.strings
+  YeelightBleV2
+
+  Created by myleoliu on 12/23/13.
+  Copyright (c) 2013 yeelink. All rights reserved.
+*/
+//Scene Names
+"SceneMode_Text_Yuedu" = "Reading";
+"SceneMode_Text_Luori" = "Sunset";
+"SceneMode_Text_Yulin" = "Forest";
+"SceneMode_Text_AiqinHai" = "Sea";
+"SceneMode_Text_XiawuCha" = "Tea Time";
+"SceneMode_Text_Yese" = "Night";
+"SceneMode_Text_Zhuguang" = "Candlelight";
+"SceneMode_Text_Yujia" = "Yoga";
+"SceneMode_Text_KanguiPian" = "Colorful";
+"SceneMode_Text_Juhui" = "Party";
+
+"Button_Done" = "Done";
+"Button_Close" = "Close";
+"Button_Yes" = "YES";
+"Button_No" = "Cancel";
+"Button_Next" = "Next";
+"Button_AddBulb" = "Add Bulb";
+"Button_AddGroup" = "Add Group";
+"Button_SetDefaultColor" = "Set Default Color";
+
+
+"Edit_Bulb_Name" = "Edit Bulb Name";
+"BulbName_Cannot_Be_Empty" = "Bulb name can't be empty.";
+
+"DelaySwith_Cannot_Apply_On_Group" = "Timer only works for single bulb.";
+"Msg_Delay_Msg"="%0.2d:%0.2d bulb will %@";
+
+"Tip_Title" = "Message";
+"Device_Is_Not_Near_By"="Device not in range";//"该设备不再控制范围!";
+"Device_Is_Connecting"="Device is connecting";//"设备连接中, 请稍后";
+
+"Msg_Added_n_Bulbs"="%d bulbs added";//"已添加%d个灯泡”;add %d bulbs
+"Msg_Bulb_Info"="Bulb Info";
+"Msg_About"="About";
+"Msg_Setting"="Settings";
+"Msg_Open"="On";
+"Msg_Close"="Off";
+"Msg_Delay_Tip"="Slide following blocks to set time";//"点击滑动设置时间";
+"Msg_ColorFlow_Tip"="Click center to choose picture";//"点击选择图片";
+"Msg_Color_White"="White";
+"Msg_Set_Default_Color_Succeed"="Set default color succeed";
+"Msg_Set_Default_Color_NoBulb"="No bulb connected";
+
+
+"GroupName_AllBulb"="All Bulbs";
+"AddBublGroup_Msg_No_Bulb_Selected"="Please select at least one bulb for this group.";//"请至少选择一盏灯";
+"AddBulbGroup_Msg_No_GroupName"="Group name can't be empty.";//"请填写分组名称";
+"AddBulbGroup_Tip1"="Click following item to identify bulbs.";//"点击状态条可查看灯";
+"AddBulbGroup_Title"="Group Name";//"分组名称";
+"AddBulb_Tip_1"="Install the light bulb into mount base,";//"向右旋转安装灯泡";
+"AddBulb_Tip_2"="then turn on it.";//"搜索灯泡";
+"AddBulb_Step2_Tip1"="Click following item to identify bulbs;";//"点击状态条查看灯";
+"AddBulb_Step2_Tip2"="Use the edit icon to change name;";//"点击铅笔可编辑等名字";
+"AddBulb_Step2_Tip3"="Check the bulb, then Done to finish Adding.";//"点击铅笔可编辑等名字";
+
+
+"Menu_Title_ColorBght"="Brightness/Color";//"调光调色";
+"Menu_Title_Delay"="Timer On/Off";
+"Menu_Title_ColorFlow"="Flowing Color";
+"Menu_Title_Music"="Disco Time";
+"Menu_Title_Music_Bow"="Music Rainbow";
+"Menu_Title_Default_Color"="Set Default Color";
+
+"Menu_SubTitle_ColorBght"="Slide rainbow to change color";
+"Menu_SubTitle_Delay"="Set time for bulb to be on/off";
+"Menu_SubTitle_ColorFlow"="Show colors of choosed photo";
+"Menu_SubTitle_Music"="Bulb changes colors following music";
+"Menu_SubTitle_Music_Bow"="Following rhythm (one color per bulb)";
+"Menu_SubTitle_DefaultColor" = "Set default color for bulb when power on";
+
+"Settings_Version"="Version: 1.0.5";
+"Settings_CopyRight"="Copyright©2014";
+"Settings_Company"="Yeelink Product";
+
+"Tip_Image0"="guid0_en.png";
+"Tip_Image0_4s"="guid0_4s_en.png";
+"Tip_Image1"="guid1_en.png";
+"Tip_Image_4s"="guid1_4s_en.png";
+"Tip_Image2"="guid_addbulb_en.png";

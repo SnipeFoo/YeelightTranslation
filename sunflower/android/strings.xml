@@ -1,0 +1,127 @@
+<resources>
+
+    <string name="app_name">Sunflower</string>
+    <string name="app_pre">APP_PRE</string>
+    <string name="demo_bulb">Light</string>
+    <string name="global_invalid">Invalid</string>
+    <string name="global_confirm">Confirm</string>
+    <string name="global_online">Online</string>
+    <string name="global_offline">Offline</string>
+    <string name="cache_file_groups">.GROUPS</string>
+    <string name="cache_file_scenes">.SCENES</string>
+    <string name="app_pre_elem_ratio_width">APP_PRE_ELEM_RATIO_WIDTH</string>
+    <string name="app_pre_elem_ratio_height">APP_PRE_ELEM_RATIO_HEIGHT</string>
+    <string name="wifierr_msg_splashview_alertdialog">Sorry, the wifi device is turned off, please check device\'s configuration.</string>
+    <string name="wifierr_title_splashview_alertdialog">Connection Error</string>
+    <string name="msg_splashview_cancel">Cancel scanning</string>
+    <string name="msg_splashview_inputip">Enter IP</string>
+    <string name="msg_splashview_input_guide">Try to find the IP address of control box in Wi-Fi Router, please notice that the last 6 digits of it\'s ID are same with SN number on the back sticker. Enter the IP address and try CONNECT.</string>
+    <string name="msg_spashview_manualconnect">Connect</string>
+    <string name="msg_splashview_progressdialog">Connecting YeeLink Box，Please wait...</string>
+    <string name="title_splashview_alertdialog">Connect Failed</string>
+    <string name="msg_splashview_alertdialog">Could not find your control box, please ensure that it is connected to your Wi-Fi router then RETRY. For remote control, please choose REMOTE. Choose ENTER IP for manually connecting.Could not find your control box, please ensure that it is connected to your Wi-Fi router then RETRY. For remote control, please choose REMOTE. Choose ENTER IP for manually connecting.</string>
+    <string name="title_mainview_alertdialog">Exit</string>
+    <string name="msg_mainview_alertdialog">Are you sure to exit？</string>
+    <string name="posbtn_mainview_alertdialog">Yes</string>
+    <string name="negbtn_mainview_alertdialog">No</string>
+    <string name="left_mainview_tabs">Lamps</string>
+    <string name="middle_mainview_tabs">Scenes</string>
+    <string name="right_mainview_tabs">System</string>
+    <string name="posbtn_splashview_alertdialog">Retry</string>
+    <string name="neubtn_splashview_alertdialog">Remote</string>
+    <string name="negbtn_splashview_alertdialog">Enter IP</string>
+    <string name="tablights_title">Lamps</string>
+    <string name="tabscenes_title">Scenes</string>
+    <string name="tabinfo_title">System</string>
+    <string name="tablights_group_button">Group</string>
+    <string name="tablights_refresh">Refresh</string>
+    <string name="tablights_closeall_button">Turn off all</string>
+    <string name="tablights_onall_button">Turn on all</string>
+    <string name="tabscenes_button_add">Add</string>
+    <string name="tabscenes_dialog_msg">Delete this scene?</string>
+    <string name="tabscenes_dialog_btn_pos">Yes</string>
+    <string name="tabscenes_dialog_btn_neg">No</string>
+    <string name="tabscenes_scenes_bright">Bright</string>
+    <string name="tabscenes_scenes_colorful">Colorful</string>
+    <string name="tabinfo_group_box">YeeLinkBox Info</string>
+    <string name="tabinfo_group_box_status">Status：</string>
+    <string name="tabinfo_group_box_status_connected">Connected</string>
+    <string name="tabinfo_group_box_status_remote_connected">Remote Connected</string>
+    <string name="tabinfo_group_box_status_disconnected">Disconnected</string>
+    <string name="tabinfo_group_box_appversion">Software version：</string>
+    <string name="tabinfo_group_box_appversion_value">1.0.5</string>
+    <string name="tabinfo_group_box_firmwareversion">Firmware：</string>
+    <string name="tabinfo_group_box_bridgeid">ID：</string>
+    <string name="tabinfo_group_box_bridgeip">IP：</string>
+    <string name="tabinfo_group_bulbs">Lamp List</string>
+    <string name="tabinfo_btn_detect">Search</string>
+    <string name="tabinfo_btn_clear">Reset</string>
+    <string name="tabinfo_msg_reset_success">Reset Success!</string>
+    <string name="tabinfo_msg_reset_fail">Reset failed,please retry!</string>
+    <string name="tabinfo_btn_authorize">Authorize Remote Control</string>
+    <string name="tabinfo_msg_authorized">Device is authorized for remote control.</string>
+    <string name="newbulbs_btn_complete">Complete</string>
+    <string name="newbulbs_btn_cancel">Cancel</string>
+    <string name="newbulbs_tv_detecting">Searching...</string>
+    <string name="newbulbs_tv_notfound">No devices found</string>
+    <string name="newbulbs_tv_newlist">New Deivce List</string>
+    <string name="newbulbs_tv_found">Found New Devices</string>
+    <string name="newbulbs_msg_device_added">Device Added Successfully</string>
+    <string name="listview_item_signal">Signal:</string>
+    <string name="listview_item_signal_strong">Strong</string>
+    <string name="listview_item_signal_normal">Well</string>
+    <string name="listview_item_signal_weak">Weak</string>
+    <string name="listview_item_status_online">Online</string>
+    <string name="listview_item_status_offline">Offline</string>
+    <string name="bulbcontrol_item_color">Color</string>
+    <string name="bulbcontrol_item_lightness">Lightness</string>
+    <string name="bulbcontrol_btn_back">Back</string>
+    <string name="left_brightness_tabs">Bright</string>
+    <string name="middle_color_tabs">Color</string>
+    <string name="right_timer_tabs">Timer</string>
+    <string name="group_title">Group</string>
+    <string name="group_btn_back">Back</string>
+    <string name="group_grid_add">Add</string>
+    <string name="group_dialog_msg">Please choose the operation for this group</string>
+    <string name="group_dialog_btn_pos">Remove</string>
+    <string name="group_dialog_btn_neu">Edit</string>
+    <string name="group_dialog_btn_neg">Cancle</string>
+    <string name="edit_back_rename">Rename</string>
+    <string name="edit_back">Back</string>
+    <string name="edit_finish">Complete</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_group_title">Add</string>
+    <string name="edit_group_title_edit">Edit</string>
+    <string name="edit_scene_title">Add</string>
+    <string name="edit_scene_title_edit">Edit</string>
+    <string name="edit_default_name">Untitled</string>
+    <string name="edit_msg_nochosen">Group member can\'t be empty.</string>
+    <string name="edit_msg_scene_nochosen">Scene member can\'t be empty.</string>
+    <string name="tab_timer_btn_on">ON</string>
+    <string name="tab_timer_btn_off">OFF</string>
+    <string name="tab_timer_btn_cancel">CANCEL</string>
+    <!--
+Colorful
+Party
+Yoga
+Candlelight
+Evening
+Afternoon Tea
+Sea
+Forest
+Desert
+Reading
+    -->
+    
+    <string name="scene_name_1">Party</string>
+    <string name="scene_name_2">Gost piece????</string>
+    <string name="scene_name_3">Yoga</string>
+    <string name="scene_name_4">Candlelight</string>
+    <string name="scene_name_5">Evening</string>
+    <string name="scene_name_6">Afternoon Tea</string>
+    <string name="scene_name_7">Sea</string>
+    <string name="scene_name_8">Forest</string>
+    <string name="scene_name_9">Desert</string>
+    <string name="scene_name_10">Reading</string>
+
+</resources>
