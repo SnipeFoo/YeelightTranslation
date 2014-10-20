@@ -1,0 +1,88 @@
+/* 
+  Yeelight.strings
+  YeelightBleV2
+
+  Created by myleoliu on 12/23/13.
+  Translated by Julien Nury 10/20/14
+  Copyright (c) 2013 yeelink. All rights reserved.
+*/
+//Scene Names
+"SceneMode_Text_Yuedu" = "Lecture";
+"SceneMode_Text_Luori" = "Couchant";
+"SceneMode_Text_Yulin" = "Forêt";
+"SceneMode_Text_AiqinHai" = "Océan";
+"SceneMode_Text_XiawuCha" = "Tea Time";
+"SceneMode_Text_Yese" = "Nuit";
+"SceneMode_Text_Zhuguang" = "Chandelle";
+"SceneMode_Text_Yujia" = "Yoga";
+"SceneMode_Text_KanguiPian" = "Coloré";
+"SceneMode_Text_Juhui" = "Fête";
+
+"Button_Done" = "Terminer";
+"Button_Close" = "Fermer";
+"Button_Yes" = "Oui";
+"Button_No" = "Annuler";
+"Button_Next" = "Suivant";
+"Button_AddBulb" = "Ajouter une ampoule";
+"Button_AddGroup" = "Ajouter un groupe";
+"Button_SetDefaultColor" = "Définir la couleur par défaut";
+
+
+"Edit_Bulb_Name" = "Editer le nom de l'ampoule";
+"BulbName_Cannot_Be_Empty" = "Le nom de l'ampoule ne peut pas être vide.";
+
+"DelaySwith_Cannot_Apply_On_Group" = "Le minuteur ne fonctionne pas pour un groupe.";
+"Msg_Delay_Msg"="%0.2d:%0.2d l'ampoule sera %@";
+
+"Tip_Title" = "Message";
+"Device_Is_Not_Near_By"="Ampoule hors de portée";//"该设备不再控制范围!";
+"Device_Is_Connecting"="Connexion à l'ampoule";//"设备连接中, 请稍后";
+
+"Msg_Added_n_Bulbs"="%d ampoule(s) ajoutée(s)";//"已添加%d个灯泡”;add %d bulbs
+"Msg_Bulb_Info"="Informations sur l'ampoule";
+"Msg_About"="A propos";
+"Msg_Setting"="Paramètres";
+"Msg_Open"="On";
+"Msg_Close"="Off";
+"Msg_Delay_Tip"="Faites glisser les blocs suivants pour régler l'heure";//"点击滑动设置时间";
+"Msg_ColorFlow_Tip"="Appuyez au centre pour choisir l'image";//"点击选择图片";
+"Msg_Color_White"="Blanc";
+"Msg_Set_Default_Color_Succeed"="Couleur par défaut enregistrée";
+"Msg_Set_Default_Color_NoBulb"="Aucune ampoule connectée";
+
+
+"GroupName_AllBulb"="Toutes les ampoules";
+"AddBublGroup_Msg_No_Bulb_Selected"="Merci de choisir au moins une ampoule pour ce groupe.";//"请至少选择一盏灯";
+"AddBulbGroup_Msg_No_GroupName"="Le nom du groupe ne peut pas être vide.";//"请填写分组名称";
+"AddBulbGroup_Tip1"="Toucher pour identifier les ampoules.";//"点击状态条可查看灯";
+"AddBulbGroup_Title"="Nom du groupe";//"分组名称";
+"AddBulb_Tip_1"="Installez l'ampoule dans votre lampe,";//"向右旋转安装灯泡";
+"AddBulb_Tip_2"="puis, allumez-la.";//"搜索灯泡";
+"AddBulb_Step2_Tip1"="Touchez pour identifier les ampoules;";//"点击状态条查看灯";
+"AddBulb_Step2_Tip2"="Utilisez l'icône d'édition pour changer le nom;";//"点击铅笔可编辑等名字";
+"AddBulb_Step2_Tip3"="Vérifiez l'ampoule, puis appuyez sur Terminer.";//"点击铅笔可编辑等名字";
+
+
+"Menu_Title_ColorBght"="Luminosité/Couleur";//"调光调色";
+"Menu_Title_Delay"="Minuteur On/Off";
+"Menu_Title_ColorFlow"="Vagues de couleurs";
+"Menu_Title_Music"="Disco";
+"Menu_Title_Music_Bow"="Arc-en ciel";
+"Menu_Title_Default_Color"="Couleur par défaut";
+
+"Menu_SubTitle_ColorBght"="Glisser pour changer la couleur";
+"Menu_SubTitle_Delay"="Choisir l'heure d'allumage et d'extinction";
+"Menu_SubTitle_ColorFlow"="Affiche les couleurs d'une photo";
+"Menu_SubTitle_Music"="Change de couleur en fonction de la musique";
+"Menu_SubTitle_Music_Bow"="Suit le rythme(une couleur par ampoule)";
+"Menu_SubTitle_DefaultColor" = "Choisir la couleur de l'ampoule à l'allumage";
+
+"Settings_Version"="Version: 1.0.5";
+"Settings_CopyRight"="Copyright©2014";
+"Settings_Company"="Yeelink Product";
+
+"Tip_Image0"="guid0_fr.png";
+"Tip_Image0_4s"="guid0_4s_fr.png";
+"Tip_Image1"="guid1_fr.png";
+"Tip_Image_4s"="guid1_4s_fr.png";
+"Tip_Image2"="guid_addbulb_fr.png";
